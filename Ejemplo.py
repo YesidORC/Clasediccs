@@ -38,8 +38,5 @@ def function_three():
        
 def function_four():
        print("Function four is executed")
-
-if __name__ == "__main__":
-    print("\nModuloa Ejemplo ejecutado cuando corre directametne\n")
-else:
-    print("\nModulo Ejemplo ejecutado cuando es importado\n")
+def hola():
+        print("Hola mundo")
